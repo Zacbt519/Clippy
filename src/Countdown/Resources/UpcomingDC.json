@@ -1,0 +1,57 @@
+[
+    {
+        "Title": "The Batman",
+        "Director": "Matt Reeves",
+        "NoReleaseDate": false,
+        "Date": "2022-03-04",
+        "Type": "Movie",
+        "Description": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+        "TrailerURL": "https://www.youtube.com/watch?v=mqqft2x_Aa4",
+        "CoverURL": "https://m.media-amazon.com/images/M/MV5BYTExZTdhY2ItNGQ1YS00NjJlLWIxMjYtZTI1MzNlMzY0OTk4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",
+        "Universe": "DC"
+    },
+    {
+        "Title": "Black Adam",
+        "Director":"Jaume Collet-Serra",
+        "NoReleaseDate": false,
+        "Date":"2022-07-29",
+        "Type":"Movie",
+        "Description": "Plot unknown. A spin-off from 'Shazam!' centering on the film's anti-hero, Black Adam.",
+        "TrailerURL": "https://www.youtube.com/watch?v=N73oTiIIJe0",
+        "CoverURL": "https://m.media-amazon.com/images/M/MV5BNTAxMGQ2NTQtMDYwMC00NDQ3LTgwYTAtOWYzMjE4OGVkZjk2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+        "Universe":"DC"
+    },
+    {
+        "Title": "The Flash",
+        "Director": "Andy Muschietti",
+        "NoReleaseDate":false,
+        "Date": "2022-11-04",
+        "Type":"Movie",
+        "Description": "Flashpoint Paradox",
+        "TrailerURL": "https://www.youtube.com/watch?v=riDeeSHw0V0",
+        "CoverURL": "https://m.media-amazon.com/images/M/MV5BOWNhMGU5MjEtMGVkYi00M2RiLWE5NjUtY2U5NDAxZTcwNDY0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+        "Universe":"DC"
+    },
+    {
+        "Title": "Aquaman and the Lost Kingdom",
+        "Director": "James Wan",
+        "NoReleaseDate":false,
+        "Date":"2022-12-16",
+        "Type":"Movie",
+        "Description": "Plot unknown. Sequel to the 2018 film 'Aquaman.'",
+        "CoverURL": "https://m.media-amazon.com/images/M/MV5BM2QyYTRkMjMtMDk5NC00OTc0LWIyYTYtNGNhMzRjMTNhNGNkXkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_FMjpg_UX1000_.jpg",
+        "Universe":"DC"
+    },
+    {
+        "Title": "Shazam: Fury of the Gods",
+        "Director": "David F. Sandberg",
+        "NoReleaseDate":false,
+        "Date":"2023-06-02",
+        "Type":"Movie",
+        "CoverURL": "https://m.media-amazon.com/images/M/MV5BZDIyNjc3YzItMjE5Mi00OGVkLWFmNGYtMGJlMWMyZmVkM2E5XkEyXkFqcGdeQXVyNTQ2MjM5MTg@._V1_.jpg",
+        "Universe":"DC"
+    },
+    {
+        
+    }
+]

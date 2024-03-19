@@ -1,0 +1,360 @@
+[
+  {
+    "Title": "Loki",
+    "Date": "2021-06-09T00:00:00",
+    "NoReleaseDate": false,
+    "Description": "In Marvel Studios’ \"Loki\" the mercurial villain Loki (Tom Hiddleston) resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.” Kate Herron directs and Michael Waldron is head writer. Debuts on Disney+ on June 9, 2021.",
+    "CoverURL": "https://raw.githubusercontent.com/AugustoMarcelo/mcuapi/master/covers/loki.jpg",
+    "Director": "Michael Waldron",
+    "Type": "TV",
+    "Phase": "4",
+    "NumberOfSeasons": "1",
+    "NumberOfEpisodes":"6",
+    "TrailerURL":"https://www.youtube.com/watch?v=nW948Va-l10",
+    "Universe": "MCU"
+  },
+  {
+    "Title": "Black Widow",
+    "Date": "2021-07-09T00:00:00",
+    "NoReleaseDate": false,
+    "Duration" : "144",
+    "TrailerURL": "https://www.youtube.com/watch?v=ybji16u608U",
+    "Description": "In Marvel Studios' action-packed spy thriller “Black Widow”, Natasha Romanoff aka Black Widow confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+    "CoverURL": "https://raw.githubusercontent.com/AugustoMarcelo/mcuapi/master/covers/black-widow.jpg",
+    "Director": "Cate Shortland",
+    "Phase":"4",
+    "Type":"Movie",
+    "Universe": "MCU"
+  },
+  {
+    "Title": "Shang-Chi and the Legend of the Ten Rings",
+    "Date": "2021-09-03T00:00:00",
+    "NoReleaseDate": false,
+    "Description":"Marvel Studios' \"Shang-Chi and The Legend of The Ten Rings\" stars Simu Liu as Shang-Chi, who must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization. The film also stars Tony Leung as Wenwu, Awkwafina as Shang-Chi's friend Katy and Michelle Yeoh as Jiang Nan, as well as Fala Chen, Meng'er Zhang, Florian Munteanu and Ronny Chieng.",
+    "CoverURL":"https://raw.githubusercontent.com/AugustoMarcelo/mcuapi/master/covers/shang-chi-and-the-legend-of-the-ten-rings.jpg",
+    "TrailerURL":"https://www.youtube.com/watch?v=giWIr7U1deA",
+    "Director": "Destin Daniel Cretton",
+    "Type":"Movie",
+    "Phase":"4",
+    "Universe": "MCU"
+  },
+  {
+    "Title": "Eternals",
+    "Date": "2021-11-05T00:00:00",
+    "NoReleaseDate": false,
+    "Description": "Marvel Studios' Eternals features an exciting new team of Super Heroes in the Marvel Cinematic Universe, ancient aliens who have been living on Earth in secret for thousands of years. Following the events of Avengers: Endgame, an unexpected tragedy forces them out of the shadows to reunite against mankind's most ancient enemy, The Deviants.",
+    "CoverURL": "https://raw.githubusercontent.com/AugustoMarcelo/mcuapi/master/covers/the-eternals.jpg",
+    "Director": "Chloé Zhao",
+    "Phase":"4",
+    "Type":"Movie",
+    "TrailerURL":"https://www.youtube.com/watch?v=0WVDKZJkGlY",
+    "Universe": "MCU"
+  },
+  {
+    "Title": "Spider-Man: No Way Home",
+    "Date": "2021-12-17T00:00:00",
+    "NoReleaseDate": false,
+    "CoverURL": "https://raw.githubusercontent.com/AugustoMarcelo/mcuapi/master/covers/spider-man-no-way-home.jpg",
+    "Phase":"4",
+    "Director": "Jon Watts",
+    "Type":"Movie",
+    "Universe": "MCU"
+  },
+  {
+    "Title": "Doctor Strange in the Multiverse of Madness",
+    "Date": "2022-05-06",
+    "NoReleaseDate": false,
+    "CoverURL": "https://raw.githubusercontent.com/AugustoMarcelo/mcuapi/master/covers/doctor-strange-in-the-multiverse-of-madness.jpg",
+    "Director": "Sam Raimi",
+    "Type":"Movie",
+    "Phase":"4",
+    "Universe": "MCU"
+  },
+  {
+    "Title": "Thor: Love and Thunder",
+    "Date": "2022-07-08",
+    "NoReleaseDate": false,
+    "CoverURL": "https://raw.githubusercontent.com/AugustoMarcelo/mcuapi/master/covers/thor-love-and-thunder.jpg",
+    "Director": "Taika Waititi",
+    "Type":"Movie",
+    "Phase":"4",
+    "Universe": "MCU"
+  },
+  {
+    "Title": "Black Panther: Wakanda Forever",
+    "Date": "2022-11-11",
+    "NoReleaseDate": false,
+    "CoverURL": "https://raw.githubusercontent.com/AugustoMarcelo/mcuapi/master/covers/black-panther-2.jpg",
+    "Description": "The sequel to the history-making Black Panther, written and directed by Ryan Coogler, will explore the incomparable world of Wakanda.",
+    "Type":"Movie",
+    "Director": "Ryan Coogler",
+    "Phase":"4",
+    "Universe": "MCU"
+  },
+  {
+    "Title": "The Marvels",
+    "Date": "2023-02-17",
+    "NoReleaseDate": false,
+    "CoverURL": "https://raw.githubusercontent.com/AugustoMarcelo/mcuapi/master/covers/captain-marvel-2.jpg",
+    "Type":"Movie",
+    "Director": "Nia DaCosta",
+    "Phase":"4",
+    "Universe": "MCU"
+  },
+  {
+    "Title": "Ant-Man and the Wasp: Quantumania",
+    "Date": "2023-07-28",
+    "NoReleaseDate": false,
+    "CoverURL": "https://raw.githubusercontent.com/AugustoMarcelo/mcuapi/master/covers/ant-man-and-the-wasp-quantumania.jpg",
+    "Director": "Peyton Reed",
+    "Type":"Movie",
+    "Phase":"4",
+    "Universe": "MCU"
+  },
+  {
+    "Title": "Guardians of the Galaxy Vol. 3",
+    "Date": "2023-05-05T00:00:00",
+    "NoReleaseDate": false,
+    "Director": "James Gunn",
+    "CoverURL":"https://m.media-amazon.com/images/M/MV5BMWM3ZWNlMjgtODZjMi00YTAwLWJhZTktMTM4NTgyMjE0NjMwXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",
+    "Phase":"4",
+    "Type":"Movie",
+    "Universe": "MCU"
+  },
+  {
+    "Title": "Fantastic Four",
+    "Date": "2022-01-01T00:00:00",
+    "NoReleaseDate": true,
+    "Director":"Jon Watts",
+    "CoverURL":"https://m.media-amazon.com/images/M/MV5BZjZiNmYwYWItNzg4ZC00ZGI5LTlmMjAtMzUyMjlkYzk2NmJkXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg",
+    "Type":"Movie",
+    "Phase":"4",
+    "Universe": "MCU"
+  },
+  {
+    "Title": "Blade",
+    "Date": "2022-01-01T00:00:00",
+    "NoReleaseDate": true,
+    "CoverURL": "https://raw.githubusercontent.com/AugustoMarcelo/mcuapi/master/covers/blade.jpg",
+    "Type":"Movie",
+    "Universe": "MCU"   
+  },
+  {
+    "Title": "Ms. Marvel",
+    "Date": "2022-06-08",
+    "NoReleaseDate": false,
+    "CoverURL":"https://m.media-amazon.com/images/M/MV5BZWM5MmZmZDQtNWY0OC00NmU3LWE4N2YtOGU0OWE0MGY0NjZhXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",
+    "Phase":"4",
+    "Type":"TV",
+    "NumberOfEpisodes":"6",
+    "NumberOfSeasons":"1",
+    "Description": "New Jersey raised Kamala Khan learns she has polymorphous powers.",
+    "Director": "Bisha K. Ali",
+    "Universe": "MCU"
+
+  },
+  {
+    "Title": "Hawkeye",
+    "Date": "2021-11-24",
+    "NoReleaseDate": false,
+    "CoverURL": "https://m.media-amazon.com/images/M/MV5BM2FmYTMzYzUtNTAyYi00YzNkLWE5NTktMGRjMWJhNDUzODZmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+    "Phase":"4",
+    "Type":"TV",
+    "NumberOfSeasons":"1",
+    "NumberOfEpisodes":"8",
+    "Description":"Series based on the Marvel Comics superhero Hawkeye, centering on the adventures of Young Avenger, Kate Bishop, who took on the role after the original Avenger, Clint Barton.",
+    "Director": "Johnathan Igla",
+    "Universe": "MCU"
+  },
+  {
+    "Title": "Moon Knight",
+    "Date": "2022-03-30T00:00:00",
+    "NoReleaseDate": false,
+    "CoverURL":"https://m.media-amazon.com/images/M/MV5BZTg0NjNiNTQtYjhlYi00YzUxLWJhZTEtMWMzNjg1OGZkZmZjXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",
+    "Description":"Marc Spector is a former CIA agent whose life is saved by the Moon God, Khonshu.",
+    "NumberOfEpisodes":"6",
+    "NumberOfSeasons":"1",
+    "Phase":"4",
+    "Type":"TV",
+    "Director":"Jeremy Slater",
+    "Universe": "MCU"
+  },
+  {
+    "Title": "She-Hulk",
+    "Date": "2022-08-17",
+    "NoReleaseDate": false,
+    "Description": "Jennifer Walters acquires Hulk-like qualities.",
+    "CoverURL": "https://m.media-amazon.com/images/M/MV5BYmE5NDcxYTUtNmQ1Mi00Y2JkLTkxNDYtMzkzNzk5MjVmYmIzXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+    "NumberOfEpisodes":"10",
+    "NumberOfSeasons":"1",
+    "Phase":"4",
+    "Type":"TV",
+    "Director": "Jessica Gao",
+    "Universe": "MCU"
+  },
+  {
+    "Title": "Secret Invasion",
+    "Date": "2022-01-01T00:00:00",
+    "NoReleaseDate": true,
+    "CoverURL": "https://m.media-amazon.com/images/M/MV5BMzZiOTE5ZmQtZGNmYy00MzU3LTgwYzAtNTNhN2ZkY2U1ZWM1XkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_.jpg",
+    "Description":"Fury and Talos try to stop the Skrulls who have infiltrated the highest spheres of the Marvel Universe.",
+    "NumberOfSeasons":"1",
+    "NumberOfEpisodes":"6",
+    "Phase":"4",
+    "Type":"TV",
+    "Director": "Kyle Bradstreet",
+    "Universe": "MCU"
+  },
+  {
+    "Title": "Ironheart",
+    "Date": "2022-01-01T00:00:00",
+    "NoReleaseDate": true,
+    "CoverURL": "https://m.media-amazon.com/images/M/MV5BOGU2NTI2YzMtZjJhNy00YzU1LWE0MzItOTM1MmQ5NGM5MWU1XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+    "NumberOfEpisodes":"6",
+    "NumberOfSeasons":"1",
+    "Phase":"4",
+    "Type":"TV",
+    "Description": "The genius teenage-girl inventor Riri Williams creates the most advanced suit of armor since Iron Man.",
+    "Director": "Chinaka Hodge",
+    "Universe": "MCU"
+  },
+  {
+    "Title": "Armor Wars",
+    "Date": "2022-01-01T00:00:00",
+    "NoReleaseDate": true,
+    "CoverURL":"https://m.media-amazon.com/images/M/MV5BOTllZTkzYmUtMGE3OS00Y2I1LTg0N2ItNmE2Mjc0NTE4MzgxXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",
+    "Description": "Find out in this series what would happen if Tony Stark's tech fell into the wrong hands.",
+    "Phase":"4",
+    "Type":"TV",
+    "Universe": "MCU"
+  },
+  {
+    "Title": "I am Groot",
+    "Date": "2022-08-10",
+    "NoReleaseDate": false,
+    "CoverURL":"https://m.media-amazon.com/images/M/MV5BNDFjMmU0MWItZGVjYy00ZDgxLTllN2QtYTcwNjgwNzY3OWRhXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg",
+    "Type":"TV",
+    "Description":"A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+    "Universe": "MCU"
+  },
+  {
+    "Title": "Guardians of the Galaxy Holiday Special",
+    "Date": "2022-01-01T00:00:00",
+    "NoReleaseDate": true,
+    "Director": "James Gunn",
+    "CoverURL":"https://m.media-amazon.com/images/M/MV5BNTQ3ZDg5OWYtZjlhYi00Zjk0LTk3MGUtMTM4ZDVlYjg0ZjRmXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg",
+    "Description":"Watch the Guardians Star-Lord, Gamora, Drax, Rocket, and Groot engage in some spirited shenanigans in an all-new original special created for Disney+.",
+    "Type":"Movie",
+    "Phase":"4",
+    "Universe": "MCU"
+  },
+  {
+    "Title": "What If?...",
+    "Date": "2021-08-11T00:00:00",
+    "NoReleaseDate": false,
+    "TrailerURL":"https://www.youtube.com/watch?v=x9D0uUKJ5KI",
+    "CoverURL":"https://m.media-amazon.com/images/M/MV5BN2I1NGViZTEtMDc1MC00YTRjLWIwMjItYzcxN2I2NWViMjQ4XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg",
+    "Description": "Exploring pivotal moments from the Marvel Cinematic Universe and turning them on their head, leading the audience into uncharted territory.",
+    "Phase":"4",
+    "Type":"TV",
+    "NumberOfSeasons":"1",
+    "NumberOfEpisodes":"10",
+    "Director": "A.C Bradley",
+    "Universe": "MCU"
+  },
+  {
+    "Title": "Morbius",
+    "Date": "2022-04-01",
+    "CoverURL": "https://m.media-amazon.com/images/M/MV5BNjIxMDcxMGQtNTViOC00MWM0LWFjYjItNDNmNzRkZThlMmZjXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+    "TrailerURL": "https://www.youtube.com/watch?v=jLMBLuGJTsA",
+    "Description":"Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism instead.",
+    "Director":"Daniel Espinosa",
+    "Type":"Movie",
+    "Universe": "SUMC"
+  },
+  {
+    "Title": "Spider-Woman",
+    "Director": "Olivia Wilde",
+    "NoReleaseDate":true,
+    "Type":"Movie",
+    "Universe":"SUMC"
+  },
+  {
+    "Title": "Deadpool 3",
+    "NoReleaseDate":true,
+    "Type":"Movie",
+    "Universe":"MCU"
+  },
+  {
+    "Title": "Kraven the Hunter",
+    "NoReleaseDate":true,
+    "Type":"Movie",
+    "Universe":"MCU"
+  },
+  {
+    "Title":"Untitled Wakanda Series",
+    "Director": "Ryan Coogler",
+    "NoReleaseDate":true,
+    "Type":"TV",
+    "Universe":"MCU"
+  },
+  {
+    "Title": "Silk",
+    "NoReleaseDate":true,
+    "Type":"TV",
+    "Universe":"SUMC"
+  },
+  {
+    "Title": "Captain America 4",
+    "NoReleaseDate":true,
+    "Type":"Movie",
+    "Universe":"MCU"
+  },
+  {
+    "Title": "Unititled Mutants Project",
+    "NoReleaseDate":true,
+    "Universe":"MCU"
+  },
+  {
+    "Title": "Echo",
+    "NoReleaseDate":true,
+    "Type":"TV",
+    "Universe":"MCU"
+  },
+  {
+    "Title": "Madame Web",
+    "NoReleaseDate":true,
+    "Universe":"SUMC"
+  },
+  {
+    "Title": "X-Men 97",
+    "NoReleaseDate": true,
+    "Universe": "MCU",
+    "Type": "TV"
+  },
+  {
+    "Title": "Spiderman: Freshman Year",
+    "NoReleaseDate": true,
+    "Universe":"MCU",
+    "Type": "TV"
+  },
+  {
+    "Title": "Marvel Zombies",
+    "NoReleaseDate":true,
+    "Universe": "MCU",
+    "Type":"TV"
+  },
+  {
+    "Title": "Agatha: House of Harkness",
+    "NoReleaseDate":true,
+    "Universe": "MCU",
+    "Type":"TV"
+  },
+  {
+    "Title": "Werewolf by Night",
+    "NoReleaseDate": true,
+    "Date":"2022-10-31",
+    "Type":"TV",
+    "Universe":"MCU"
+  }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "Title": "The Book of Boba Fett",
+        "Date": "2021-12-29",
+        "NoReleaseDate": false,
+        "Description": "The spin-off of \"The Mandalorian\" will star Temeura Morrison as Boba Fett and Ming-Na Wen as Fennec Shand.",
+        "CoverURL": "https://m.media-amazon.com/images/M/MV5BYzE3MWJiNTMtMmZiMC00YTFiLTk4NzQtMzU3ZmQ1MWE1Y2IzXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",
+        "Director": "Dave Filoni, Jon Favreau, Robert Rodriguez",
+        "Type": "TV",
+        "NumberOfSeasons": "1",
+        "NumberOfEpisodes":"7"
+    },
+    {
+        "Title": "Star Wars: Visions",
+        "Date": "2021-09-22",
+        "NoReleaseDate":false,
+        "Description": "Star Wars anthology series that will see some of the world's best anime creators bring their talent to this beloved universe.",
+        "CoverURL":"https://m.media-amazon.com/images/M/MV5BNmFiZDM3M2ItMGY5OS00ZGU2LTlkMmYtNTRiZDE0OWI0MTRiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+        "Type":"TV",
+        "NumberOfSeasons":"1",
+        "NumberOfEpisodes":"10"
+    },
+    {
+        "Title":"The Mandalorian",
+        "Date":"2023-01-01",
+        "NoReleaseDate":true,
+        "CoverURL":"https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg",
+        "Description":"The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+        "Director": "Jon Favreau",
+        "NumberOfSeasons":"3",
+        "NumberOfEpisodes":"8",
+        "Type":"TV"
+    },
+    {
+        "Title":"Andor",
+        "Date":"2022-08-31",
+        "NoReleaseDate":false,
+        "CoverURL":"https://m.media-amazon.com/images/M/MV5BY2VjN2E0OTktYjUyMC00YThjLTg4NjYtY2VlMjAwYmE5YmY0XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",
+        "Description":"Prequel series to Star Wars' 'Rogue One', following the adventures of Cassian Andor during the formative years of the Rebellion.",
+        "NumberOfEpisodes":"12",
+        "NumberOfSeasons":"1",
+        "Type":"TV",
+        "Director": "Tony Gilroy"
+    },
+    {
+        "Title":"Obi-Wan Kenobi",
+        "Director":"Deborah Chow",
+        "CoverURL":"https://m.media-amazon.com/images/M/MV5BN2FhNWFhYTYtNjZmNi00ZTY0LThhNTQtMTQ2ZWUyYWI3NTcyXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+        "Date":"2022-01-01",
+        "Description": "Plot undisclosed. Stand-alone spinoff feature from the Star Wars franchise centering on Obi-Wan Kenobi.",
+        "NumberOfSeasons":"1",
+        "NoReleaseDate":false,
+        "Type":"TV"
+    },
+    {
+        "Title": "Ahsoka",
+        "Date":"2023-01-01",
+        "CoverURL":"https://m.media-amazon.com/images/M/MV5BYmI5ZTJjNjktMmFkMC00ZDdiLThhZDMtNDM5YjgwODg4ZDYwXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",
+        "Description": "Series centers on the adventures of Ahsoka Tano. A spin-off from 'The Mandalorian'.",
+        "Director": "Dave Filoni",
+        "NoReleaseDate":true,
+        "NumberOfSeasons":"1",
+        "Type":"TV"
+    },
+    {
+        "Title":"Rangers of the New Republic",
+        "CoverURL":"https://m.media-amazon.com/images/M/MV5BNDc1NjI5OTUtZjZiMi00MTU2LThjODgtZTkzMzdjMmJhY2ZlXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",
+        "Date":"2022-01-01",
+        "Description": "Disney+ series set within the timeline of 'The Mandalorian'.",
+        "Director":"Jon Favreau & Dave Filoni",
+        "NoReleaseDate":true,
+        "NumberOfSeasons":"1",
+        "Type":"TV"
+    },
+    {
+        "Title":"The Acolyte",
+        "CoverURL":"https://m.media-amazon.com/images/M/MV5BOGRiNWU2NzUtYjcwNS00MTc4LTg3NTMtNDA0ZGZlZGZjMzg1XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+        "Date":"2022-01-01",
+        "NoReleaseDate":true,
+        "Description":"Star Wars series that take viewers into a galaxy of shadowy secrets and emerging dark-side powers in the final days of the High Republic era.",
+        "Director": "Leslye Headland",
+        "NumberOfSeasons":"1",
+        "Type":"TV"
+    },
+    {
+        "Title": "Skeleton Crew",
+        "NoReleaseDate": true,
+        "Director": "Jon Watts",
+        "type": "TV"
+    },
+    {
+        "Title": "The Bad Batch",
+        "Date": "2022-09-28",
+        "Type": "TV",
+        "NumberOfSeasons": "2",
+        "NumberOfEpisodes" : "32",
+        "NoReleaseDate": false
+    },
+    {
+        "Title": "Lando",
+        "CoverURL": "https://m.media-amazon.com/images/M/MV5BMmNjYjNjOWMtMTkyMC00OTgyLTgyYzAtZjg2NzBiYzNkZGM1XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+        "Date":"2022-01-01",
+        "NoReleaseDate":true,
+        "Description": "A limited series centered in the original Star Wars character of Lando Calrissian.",
+        "NumberOfSeasons":"1",
+        "Type":"TV"
+    },
+    {
+        "Title":"Star Wars: Rogue Squadron",
+        "CoverURL":"https://m.media-amazon.com/images/M/MV5BYTlkYTk0ZjYtODk1NS00OWY5LTljYWYtZDJhMGQ1MzVjMTBiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+        "Date":"2023-12-22",
+        "Description":"Plot kept under wraps. Centers on the Rebel Alliance starfighter squadron from the Star Wars films.",
+        "Director":"Patty Jenkins",
+        "NoReleaseDate":false,
+        "Type":"Movie"
+    },
+    {
+        "Title": "Untitled Taika Waititi Star Wars Movie",
+        "Date":"2022-01-01",
+        "NoReleaseDate":true,
+        "Director": "Taika Waititi",
+        "Type":"Movie"
+    },
+    {
+        "Title": "Untitled Rian Johnson Star Wars Movie Episode I",
+        "Date":"2022-01-01",
+        "NoReleaseDate":true,
+        "Director":"Rian Johnson",
+        "Type":"Movie"
+    },
+    {
+        "Title": "A Droid Story",
+        "Date":"2022-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie"
+    },
+    {
+        "Title": "Untitled Kevin Feige Star Wars Movie",
+        "Date":"2022-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie"
+    },
+    {
+        "Title": "Untitled J.D. Dillard Star Wars Project",
+        "Date":"2022-01-01",
+        "NoReleaseDate":true,
+        "Director": "J.D. Dillard"
+    }
+]

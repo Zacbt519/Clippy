@@ -1,0 +1,365 @@
+[
+    {
+        "Title": "Jungle Cruise",
+        "Date": "2021-07-30",
+        "NoReleaseDate": false,
+        "Description": "Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.",
+        "CoverURL": "https://m.media-amazon.com/images/M/MV5BNDE1MGRlNTQtZjc4ZC00MTI0LWEwY2MtODk1YTM2NmFmYTNmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+        "Director": "Jaume Collet-Serra",
+        "Type": "Movie",
+        "TrailerURL": "https://www.youtube.com/watch?v=FF932ZU6Kn4"
+    },
+    {
+        "Title": "Free Guy",
+        "Date":"2021-08-13",
+        "TrailerURL":"https://www.youtube.com/watch?v=ngNrYtgjWdI&feature=emb_imp_woyt",
+        "CoverURL":"https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "Director":"Shawn Levy",
+        "Type":"Movie",
+        "Description":"A bank teller discovers that he's actually an NPC inside a brutal, open world video game."
+    },
+    {
+        "Title":"The Last Duel",
+        "Date":"2021-10-15",
+        "Director": "Ridley Scott",
+        "Description":"Director Ridley Scott is back in historical mode with this film – written by, and starring, Matt Damon and Ben Affleck – that features King Charles VI, a knight named Jean de Carrouges, and yes, an epic duel.",
+        "NoReleaseDate":false,
+        "Type":"Movie"
+    },
+    {
+        "Title":"The French Dispatch",
+        "Date":"2021-10-22",
+        "Director":"Wes Anderson",
+        "Description":"Initially reported to be a musical, Wes Anderson’s next film will be a drama that brings to life a handful of stories from a magazine created by an American living in a fictional city in France. The film’s press release calls it a “love letter to journalists” and it brings together several regular collaborators in a massive, star-studded cast.",
+        "NoReleaseDate":false,
+        "Type":"Movie"
+    },
+    {
+        "Title":"The Kings Man",
+        "Date":"2021-12-22",
+        "Director": "Matthew Vaughn",
+        "NoReleaseDate":false,
+        "Description":"A treat for Anglophiles and others who love witty banter and bloody action, the third film in the Kingsman franchise is a prequel to the first two films. The movie welcomes a new cast – including Ralph Fiennes and Gemma Arterton – and sees one man facing off against some of history’s worst villains as they plot a potentially world-ending war.",
+        "Type":"Movie"
+    },
+    {
+        "Title":"Death on the Nile",
+        "Date":"2021-09-17",
+        "Description": "Branagh, who directed and starred in the 2017 adaptation of Murder on the Orient Express, returns to the universe of Agatha Christie mysteries. This one finds his Belgian detective Hercule Poirot forced to cut his beach-side vacation short when a young heiress turns up murdered.",
+        "Director": "Kenneth Branagh",
+        "NoReleaseDate":false,
+        "Type":"Movie",
+        "TrailerURL": "https://www.youtube.com/watch?v=0G3JWzMk8WA&feature=emb_imp_woyt",
+        "CoverURL":"https://images-na.ssl-images-amazon.com/images/I/71Hm+U6EWgL.jpg"
+    },
+    {
+        "Title": "Lightyear",
+        "Date":"2022-06-17",
+        "Description":"In a bit of brilliant meta filmmaking, Pixar offers this movie – an origin story not about the toy Tim Allen voices in the Toy Story movies, but about the movie character that inspired that doll. Chris Evans voices the hero who infamously (also) goes “to infinity and beyond.”",
+        "NoReleaseDate":false,
+        "Type":"Movie"
+    },
+    {
+        "Title":"Untitled Indiana Jones Movie",
+        "NoReleaseDate":false,
+        "Date":"2022-07-29",
+        "Director": "James Mangold",
+        "Description": "Ready your leather jackets and fedoras. After much waiting, the fifth installment of the Indiana Jones franchise will finally arrive in theaters in summer 2022. While plot details about the rugged archaeologist’s latest adventures have truly yet to be unearthed, star Harrison Ford is set to return, while Steven Spielberg has handed the directing reins over to Ford v Ferrari and Logan helmer James Mangold.",
+        "Type":"Movie"
+    },
+    {
+        "Title":"Avatar 2",
+        "Date":"2022-12-16",
+        "Director":"James Cameron",
+        "NoReleaseDate":false,
+        "Description":"The long-awaited sequel to director Cameron’s box-office hit and Best Picture nominee checks in with Worthington’s former human, Jake Sully, and his partner, Neytiri (Saldana), a member of Na’vi royalty. Weaver, whose character died in the first film, is back in a new role. Lang, whose character also died in the first film, is also back (somehow). New cast members include Kate Winslet, Michelle Yeoh and David Thewlis.",
+        "Type":"Movie"
+    },
+    {
+        "Title":"Avatar 3",
+        "Director":"James Cameron",
+        "Date":"2024-12-20",
+        "NoReleaseDate":false,
+        "Type":"Movie"
+    },
+    {
+        "Title":"Avatar 4",
+        "Director":"James Cameron",
+        "Date":"2026-12-18",
+        "NoReleaseDate":false,
+        "Type":"Movie"
+    },
+    {
+        "Title":"Avatar 5",
+        "Director":"James Cameron",
+        "Date":"2028-12-22",
+        "NoReleaseDate":false,
+        "Type":"Movie"
+    },
+    {
+        "Title":"Bob's Burgers",
+        "Director":"Lauren Bouchard",
+        "NoReleaseDate":true,
+        "Date":"2021-01-01",
+        "Description":"Oh to imagine all the burger-related puns that could fit into a full-length movie. Hoping to rekindle the box-office magic that The Simpsons Movie did in 2007 (it grossed $183,100,000), the movie adaptation of this popular Fox sitcom is now officially a go after a lot of red tape in the Disney-Fox acquisition.",
+        "Type":"Movie"
+    },
+    {
+        "Title":"The Little Mermaid",
+        "Director":"Rob Marshall",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Description":"This remake of the Disney classic is one of the most anticipated releases the studio has coming – at least, if the feverishness of the rumor mill is anything to go by. We know that R&B star Halle Bailey will play Ariel, Daveed Diggs will play Sebastian, Awkwafina will play Scuttle, and Jonah Hauer-King will play Prince Eric. The film will include music from the animated smash as well as new songs from Alan Menken and Lin-Manuel Miranda.",
+        "Type":"Movie"
+    },
+    {
+        "Title":"New Pirates of the Carribean",
+        "NoReleaseDate":true,
+        "Date":"2021-01-01",
+        "Type":"Movie"
+    },
+    {
+        "Title":"New Pirates of the Carribean with Margot Robbie",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie"
+    },
+    {
+        "Title":"Hunchback",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie"
+    },
+    {
+        "Title":"Jungle Book 2",
+        "Director":"Jon Favreau",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie"
+    },
+    {
+        "Title":"Lilo & Stitch",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Director": "Jon M. Chu",
+        "Type":"Movie"
+    },
+    {
+        "Title":"Haunted Mansion",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Director": "Justin Simien",
+        "Type":"Movie"
+    },
+    {
+        "Title":"The Sword in the Stone",
+        "Director":"Juan Carlos Fresnadillo",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie"
+    },
+    {
+        "Title":"National Treasure 3",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie"
+    },
+    {
+        "Title":"Pinocchio",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie",
+        "Director":"Robert Zemeckis"
+    },
+    {
+        "Title":"Shrunk",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie",
+        "Director":"Joe Johnston"
+    },
+    {
+        "Title":"Chip 'n' Dale: Rescue Rangers",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie",
+        "Director":"Akiva Schaffer"
+    },
+    {
+        "Title":"Peter Pan & Wendy",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie",
+        "Director":"David Lowery"
+    },
+    {
+        "Title":"Live Action Robin Hood Movie",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie",
+        "Director":"Carlos Lopez Estrada"
+    },
+    {
+        "Title":"Live Action Hercules",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie"
+    },
+    {
+        "Title":"Aladdin Sequel",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie"
+    },
+    {
+        "Title":"Aladdin Spinoff",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie"
+    },
+    {
+        "Title":"Marley",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie",
+        "Director":"Bill Condon"
+    },
+    {
+        "Title":"Hocus Pocus 2",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie",
+        "Director":"Anne Fletcher"
+    },
+    {
+        "Title":"Cheaper by the Dozen Remake",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie",
+        "Director":"Gail Lerner"
+    },
+    {
+        "Title":"Animated Diary of a Wimpy Kid Remake",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie"
+    },
+    {
+        "Title":"Lion King Prequel",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie",
+        "Director":"Barry Jenkins"
+    },
+    {
+        "Title":"Ice Age: Adventures of Buck Wild",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie"
+    },
+    {
+        "Title":"Night at the Museum: Kahmunrah Rises Again",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie"
+    },
+    {
+        "Title":"Disenchanted",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie",
+        "Director":"Adam Shankman"
+    },
+    {
+        "Title":"Home Alone",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie",
+        "Director":"Dan Mazer"
+    },
+    {
+        "Title":"Tron",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie",
+        "Director":"Garth Davis"
+    },
+    {
+        "Title":"Inspector Gadget",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie"
+    },
+    {
+        "Title":"Bambi",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie"
+    },
+    {
+        "Title":"Predator",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie",
+        "Director":"Dan Trachtenberg"
+    },
+    {
+        "Title":"Revenge of the Nerds",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie",
+        "Director":"Seth Macfarlane"
+    },
+    {
+        "Title":"Clue",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie",
+        "Director":"James Bobin"
+    },
+    {
+        "Title":"Cruella 2",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie",
+        "Director":"Craig Gillespie"
+    },
+    {
+        "Title":"Live Action Snow White",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie",
+        "Director":"Marc Webb"
+    },
+    {
+        "Title":"The Simpsons Movie 2",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie"
+    },
+    {
+        "Title":"Planet of the Apes 4",
+        "Date":"2021-01-01",
+        "NoReleaseDate":true,
+        "Type":"Movie"
+    },
+    {
+        "Title":"The Proud Family",
+        "Date":"2021-02-01",
+        "NoReleaseDate":false,
+        "Type":"TV"
+    },
+    {
+        "Title": "The Spiderwick Chronicles",
+        "NoReleaseDate":true,
+        "Date":"2021-01-01",
+        "Type":"TV"
+    },
+    {
+        "Title":"Baymax",
+        "NoReleaseDate":true,
+        "Date":"2021-01-01",
+        "Type":"TV"
+    }
+
+]
